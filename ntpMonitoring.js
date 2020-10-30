@@ -11,7 +11,7 @@ window.onerror =
         // console.log(data);
         
         var xhttp = new XMLHttpRequest();
-        var url = 'ntpJsMonitoring.php';
+        var url = 'PATH TO PHP FILE TO LOG DATA';
         var params = data.join('&');
         xhttp.open("POST", url, true);
         xhttp.setRequestHeader('Content-type', 'application/x-www-form-urlencoded');
