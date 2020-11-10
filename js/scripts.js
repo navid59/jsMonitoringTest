@@ -1,11 +1,10 @@
-/*!
-    * Start Bootstrap - SB Admin v6.0.1 (https://startbootstrap.com/templates/sb-admin)
-    * Copyright 2013-2020 Start Bootstrap
-    * Licensed under MIT (https://github.com/StartBootstrap/startbootstrap-sb-admin/blob/master/LICENSE)
+    /*!
+    * This Script used To make some Error in JS 
     */
     (function($) {
     "use strict";
 
+    //AnotherError // Uncomment to get another error
     
     // Add active state to sidbar nav links
     var path = window.location.href; // because the 'href' property of the DOM element is the absolute path
@@ -15,7 +14,8 @@
             }
         });
 
-    alert("aaa'); // Uncomment to get another error
+     alert("aaa'); // Uncomment to get another error
+
     // Toggle the side navigation
     $("#sidebarToggle").on("click", function(e) {
         e.preventDefault();

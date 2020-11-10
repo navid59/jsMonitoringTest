@@ -1,9 +1,0 @@
-2020-10-30 14:39:15, Uncaught SyntaxError: Unexpected identifier, http://localhost/jsMonitoringTest/example/js/scripts.js, 8, 6, SyntaxError: Unexpected identifier
-2020-10-30 14:39:15, Uncaught ReferenceError: ddddxx is not defined, http://localhost/jsMonitoringTest/example/js/ntpMonitoring.js?v=3, 27, 6, ReferenceError: ddddxx is not defined
-2020-10-30 14:40:04, Uncaught SyntaxError: Unexpected identifier, http://localhost/jsMonitoringTest/example/js/scripts.js, 8, 6, SyntaxError: Unexpected identifier
-2020-10-30 14:40:58, Uncaught SyntaxError: Unexpected identifier, http://localhost/jsMonitoringTest/example/js/scripts.js, 8, 6, SyntaxError: Unexpected identifier
-2020-10-30 14:41:24, Uncaught SyntaxError: Unexpected identifier, http://localhost/jsMonitoringTest/example/js/scripts.js, 8, 6, SyntaxError: Unexpected identifier
-
-2020-10-30 14:50:23, Uncaught SyntaxError: Unexpected identifier, http://localhost/jsMonitoringTest/example/js/scripts.js, 8, 6, SyntaxError: Unexpected identifier
-2020-10-30 14:51:36, Uncaught ReferenceError: ddddxx is not defined, http://localhost/jsMonitoringTest/example/js/ntpMonitoring.js?v=3, 27, 6, ReferenceError: ddddxx is not defined
-2020-10-30 14:51:36, Uncaught SyntaxError: Unexpected identifier, http://localhost/jsMonitoringTest/example/js/scripts.js, 8, 6, SyntaxError: Unexpected identifier
