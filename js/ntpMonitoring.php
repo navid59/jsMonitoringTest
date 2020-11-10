@@ -1,13 +1,5 @@
 window.onerror =  
     function (msg, source, lineNo, columnNo, error) {
-       // alert("A ) Type: "+ typeof prcID +" Value: "+prcID); 
-       // if(typeof prcID === "undefined"){
-       //  var prcID = null;
-       // } else {
-       //  // Var is defined
-       //  console.log('xxxxxxxxx');
-       // }
-       // alert("B ) Type: "+ typeof prcID +" Value: "+prcID); 
        var data = new Array(
             'prc='+ <?= rand(1,1000);?>,
             'message='+msg,
